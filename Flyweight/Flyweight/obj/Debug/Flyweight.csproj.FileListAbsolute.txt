@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Projects/Flyweight/Flyweight/obj/Debug/Flyweight.csprojAssemblyReference.cache
+/Users/nikitamakeev/Projects/Flyweight/Flyweight/bin/Debug/Flyweight.exe
+/Users/nikitamakeev/Projects/Flyweight/Flyweight/bin/Debug/Flyweight.pdb
+/Users/nikitamakeev/Projects/Flyweight/Flyweight/obj/Debug/Flyweight.exe
+/Users/nikitamakeev/Projects/Flyweight/Flyweight/obj/Debug/Flyweight.pdb

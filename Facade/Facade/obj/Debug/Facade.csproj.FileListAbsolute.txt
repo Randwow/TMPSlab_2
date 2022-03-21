@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Projects/Facade/Facade/obj/Debug/Facade.csprojAssemblyReference.cache
+/Users/nikitamakeev/Projects/Facade/Facade/bin/Debug/Facade.exe
+/Users/nikitamakeev/Projects/Facade/Facade/bin/Debug/Facade.pdb
+/Users/nikitamakeev/Projects/Facade/Facade/obj/Debug/Facade.exe
+/Users/nikitamakeev/Projects/Facade/Facade/obj/Debug/Facade.pdb

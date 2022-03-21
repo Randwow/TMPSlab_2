@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6DC20CE9-D643-428B-9D4C-B5D7A807F590}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Facade/Bank.cs">
+    <Files>
+      <File FileName="Facade/Program.cs" Line="17" Column="28" />
+      <File FileName="Facade/Bank.cs" Line="12" Column="25" />
+      <File FileName="Facade/Credit.cs" Line="10" Column="85" />
+      <File FileName="Facade/Loan.cs" Line="11" Column="32" />
+      <File FileName="Facade/Customer.cs" Line="7" Column="1" />
+      <File FileName="Facade/Mortgage.cs" Line="11" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Facade" expanded="True">
+            <Node name="Facade" expanded="True">
+              <Node name="Bank.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Facade PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

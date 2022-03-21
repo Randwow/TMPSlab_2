@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9665A2CE-EA0C-4ED0-BDFE-CA7641CC0FBD}|Default">
+  <MonoDevelop.Ide.ItemProperties.Adapter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Adapter/HourseToTransportAdapter.cs">
+    <Files>
+      <File FileName="Adapter/Program.cs" Line="24" Column="2" />
+      <File FileName="Adapter/ITransport.cs" Line="9" Column="5" />
+      <File FileName="Adapter/Auto.cs" Line="4" Column="17" />
+      <File FileName="Adapter/Driver.cs" Line="6" Column="82" />
+      <File FileName="Adapter/IAnimal.cs" Line="9" Column="1" />
+      <File FileName="Adapter/Hourse.cs" Line="4" Column="77" />
+      <File FileName="Adapter/HourseToTransportAdapter.cs" Line="4" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Adapter" expanded="True">
+            <Node name="Adapter" expanded="True">
+              <Node name="HourseToTransportAdapter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

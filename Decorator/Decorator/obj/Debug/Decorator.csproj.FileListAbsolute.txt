@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Projects/Decorator/Decorator/obj/Debug/Decorator.csprojAssemblyReference.cache
+/Users/nikitamakeev/Projects/Decorator/Decorator/bin/Debug/Decorator.exe
+/Users/nikitamakeev/Projects/Decorator/Decorator/bin/Debug/Decorator.pdb
+/Users/nikitamakeev/Projects/Decorator/Decorator/obj/Debug/Decorator.exe
+/Users/nikitamakeev/Projects/Decorator/Decorator/obj/Debug/Decorator.pdb

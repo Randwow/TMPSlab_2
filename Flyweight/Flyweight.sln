@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{AA3CCAA3-20CB-4183-B3CF-FE3B0E4AE52C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA3CCAA3-20CB-4183-B3CF-FE3B0E4AE52C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{AA3CCAA3-20CB-4183-B3CF-FE3B0E4AE52C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{AA3CCAA3-20CB-4183-B3CF-FE3B0E4AE52C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{AA3CCAA3-20CB-4183-B3CF-FE3B0E4AE52C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

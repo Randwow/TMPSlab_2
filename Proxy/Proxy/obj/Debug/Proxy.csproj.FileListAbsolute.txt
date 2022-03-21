@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Desktop/TMPSlab_2/Proxy/Proxy/bin/Debug/Proxy.exe
+/Users/nikitamakeev/Desktop/TMPSlab_2/Proxy/Proxy/bin/Debug/Proxy.pdb
+/Users/nikitamakeev/Desktop/TMPSlab_2/Proxy/Proxy/obj/Debug/Proxy.csprojAssemblyReference.cache
+/Users/nikitamakeev/Desktop/TMPSlab_2/Proxy/Proxy/obj/Debug/Proxy.exe
+/Users/nikitamakeev/Desktop/TMPSlab_2/Proxy/Proxy/obj/Debug/Proxy.pdb

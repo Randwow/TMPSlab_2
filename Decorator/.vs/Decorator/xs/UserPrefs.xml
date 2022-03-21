@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{395A19E9-1EA5-4DEC-AFBE-1EDFF3693F89}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Decorator/Program.cs">
+    <Files>
+      <File FileName="Decorator/Program.cs" Line="18" Column="1" />
+      <File FileName="Decorator/Pizza.cs" Line="11" Column="39" />
+      <File FileName="Decorator/Peperoni.cs" Line="10" Column="23" />
+      <File FileName="Decorator/Neopolitana.cs" Line="10" Column="23" />
+      <File FileName="Decorator/PizzaDecorator.cs" Line="5" Column="6" />
+      <File FileName="Decorator/TomatoPizza.cs" Line="10" Column="38" />
+      <File FileName="Decorator/ChessePizza.cs" Line="6" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Decorator" expanded="True">
+            <Node name="Decorator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Decorator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
